@@ -1,0 +1,239 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#DEB887"
+    tools:context="com.example.bacaalquran.Main3Activity">
+
+
+    <ImageView
+        android:layout_width="410dp"
+        android:layout_height="3000dp"
+        android:background="@drawable/riki4"
+        />
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        >
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical" >
+
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="بِسْمِ ٱللَّهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ"
+                android:textSize="30sp"
+                android:textColor="#000000"
+                android:layout_marginStart="140dp"
+                android:layout_marginTop="15dp"
+                android:layout_marginLeft="140dp" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="1. bismi laahi rrahmaani rrahiim"
+                android:textSize="20sp"
+                android:textColor="#000000"
+                android:layout_marginStart="15dp"
+                android:layout_marginTop="15dp"
+                android:layout_marginLeft="140dp" />
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Dengan menyebut nama Allah Yang Maha Pemurah lagi Maha Penyayang."
+                android:textSize="20sp"
+                android:textColor="#000000"
+                android:layout_marginStart="15dp"
+                android:layout_marginTop="5dp"
+                android:layout_marginLeft="140dp" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="ٱلْحَمْدُ لِلَّهِ رَبِّ ٱلْعَٰلَمِينَ"
+                android:textSize="30sp"
+                android:layout_marginStart="170dp"
+                android:textColor="#000000"
+                android:layout_marginTop="50dp"
+                android:layout_marginLeft="140dp" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="2. alhamdu lillaahi rabbi l'aalamiin"
+                android:textSize="20sp"
+                android:textColor="#000000"
+                android:layout_marginStart="5dp"
+                android:layout_marginTop="15dp"
+                android:layout_marginLeft="140dp" />
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Segala puji bagi Allah, Tuhan semesta alam."
+                android:textSize="20sp"
+                android:textColor="#000000"
+                android:layout_marginStart="5dp"
+                android:layout_marginTop="5dp"
+                android:layout_marginLeft="140dp" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="ٱلرَّحْمَٰنِ ٱلرَّحِيمِ"
+                android:textSize="30sp"
+                android:textColor="#000000"
+                android:layout_marginStart="230dp"
+                android:layout_marginTop="50dp"
+                android:layout_marginLeft="140dp" />
+
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="3. arrahmaani rrahiim"
+                android:textSize="20sp"
+                android:textColor="#000000"
+                android:layout_marginStart="5dp"
+                android:layout_marginTop="15dp"
+                android:layout_marginLeft="140dp" />
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Maha Pemurah lagi Maha Penyayang."
+                android:textSize="20sp"
+                android:textColor="#000000"
+                android:layout_marginStart="5dp"
+                android:layout_marginTop="5dp"
+                android:layout_marginLeft="140dp" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="مَٰلِكِ يَوْمِ ٱلدِّينِِ"
+                android:textSize="30sp"
+                android:textColor="#000000"
+                android:layout_marginStart="230dp"
+                android:layout_marginTop="50dp"
+                android:layout_marginLeft="140dp" />
+
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="4. maaliki yawmi ddiin"
+                android:textSize="20sp"
+                android:textColor="#000000"
+                android:layout_marginStart="5dp"
+                android:layout_marginTop="15dp"
+                android:layout_marginLeft="140dp" />
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Yang menguasai di Hari Pembalasan."
+                android:textSize="20sp"
+                android:textColor="#000000"
+                android:layout_marginStart="5dp"
+                android:layout_marginTop="5dp"
+                android:layout_marginLeft="140dp" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="إِيَّاكَ نَعْبُدُ وَإِيَّاكَ نَسْتَعِينُِ"
+                android:textSize="30sp"
+                android:textColor="#000000"
+                android:layout_marginStart="140dp"
+                android:layout_marginTop="50dp"
+                android:layout_marginLeft="140dp" />
+
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="5. iyyaaka na'budu wa-iyyaaka nasta'iin"
+                android:textSize="20sp"
+                android:textColor="#000000"
+                android:layout_marginStart="5dp"
+                android:layout_marginTop="15dp"
+                android:layout_marginLeft="140dp" />
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Hanya Engkaulah yang kami sembah, dan hanya kepada Engkaulah kami meminta pertolongan."
+                android:textSize="20sp"
+                android:textColor="#000000"
+                android:layout_marginStart="5dp"
+                android:layout_marginTop="5dp"
+                android:layout_marginLeft="140dp" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="ٱهْدِنَا ٱلصِّرَٰطَ ٱلْمُسْتَقِيمَ"
+                android:textSize="30sp"
+                android:textColor="#000000"
+                android:layout_marginStart="150dp"
+                android:layout_marginTop="50dp"
+                android:layout_marginLeft="140dp" />
+
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="6. ihdinaa shshiraatha lmustaqiim"
+                android:textSize="20sp"
+                android:textColor="#000000"
+                android:layout_marginStart="5dp"
+                android:layout_marginTop="15dp"
+                android:layout_marginLeft="140dp" />
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Tunjukilah kami jalan yang lurus,"
+                android:textSize="20sp"
+                android:textColor="#000000"
+                android:layout_marginStart="5dp"
+                android:layout_marginTop="5dp"
+                android:layout_marginLeft="140dp" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="صِرَٰطَ ٱلَّذِينَ أَنْعَمْتَ عَلَيْهِمْ غَيْرِ ٱلْمَغْضُوبِ عَلَيْهِمْ وَلَا ٱلضَّآلِّينََ"
+                android:textSize="30sp"
+                android:textColor="#000000"
+                android:layout_marginStart="10dp"
+                android:layout_marginTop="50dp"
+                android:layout_marginLeft="140dp" />
+
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="7. shiraatha ladziina an'amta 'alayhim ghayri lmaghdhuubi 'alayhim walaa dhdhaalliin"
+                android:textSize="20sp"
+                android:textColor="#000000"
+                android:layout_marginStart="5dp"
+                android:layout_marginTop="15dp"
+                android:layout_marginLeft="140dp" />
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="(yaitu) Jalan orang-orang yang telah Engkau beri nikmat kepada mereka; bukan (jalan) mereka yang dimurkai dan bukan (pula jalan) mereka yang sesat."
+                android:textSize="20sp"
+                android:textColor="#000000"
+                android:layout_marginStart="5dp"
+                android:layout_marginTop="5dp"
+                android:layout_marginLeft="140dp" />
+
+        </LinearLayout>
+    </ScrollView>
+
+
+</RelativeLayout>
